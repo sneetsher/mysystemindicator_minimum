@@ -1,0 +1,12 @@
+[Indicator Service]
+Name=indicator-test
+ObjectPath=/com/canonical/indicator/test
+
+[desktop]
+ObjectPath=/com/canonical/indicator/test/desktop
+
+[desktop_greeter]
+ObjectPath=/com/canonical/indicator/test/desktop
+
+[desktop_lockscreen]
+ObjectPath=/com/canonical/indicator/test/desktop

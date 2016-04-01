@@ -1,0 +1,3 @@
+[D-BUS Service]
+Name=com.canonical.indicator.test
+Exec=/usr/lib/x86_64-linux-gnu/indicator-test/indicator-test-service
